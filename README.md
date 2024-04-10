@@ -1,4 +1,7 @@
-# FlappyMulti - Multiplayer Flappy Bird Game
+# 🐦 FlappyMulti - Multiplayer Flappy Bird Game
+
+![Logo](https://benoitbusnardo.fr/assets/images/projects/flappymulti/screen.png)
+
 
 Welcome to FlappyMulti, a multiplayer version of the classic Flappy Bird game built using Processing! This version is optimized for arcade game setups, allowing multiple players to compete simultaneously in a fun and competitive gaming experience.
 
