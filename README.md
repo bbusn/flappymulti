@@ -21,6 +21,8 @@ Welcome to FlappyMulti, a multiplayer version of the classic Flappy Bird game bu
 
 ## Installation
 
-To run FlappyMulti, you only need to run flappymulti.exe
+! Attention : You need to have JAVA Installed on your computer in order to play the game !
+
+To run FlappyMulti, you only need to run flappymulti.exe.
 
 Don't move the executable from it's initial folder because it requires other files.
