@@ -95,10 +95,10 @@ void setup() {
   /* ___PLAYERS KEY___ */
   playersKey = new String[4];
 
-  playersKey[0] = "Red button";
-  playersKey[1] = "Yellow button";
-  playersKey[2] = "Blue button";
-  playersKey[3] = "Green button";
+  playersKey[0] = "Press 'e' or 'o'";
+  playersKey[1] = "Press 'c' or 'm'";
+  playersKey[2] = "Press 'a' or 'i'";
+  playersKey[3] = "Press 'x' or 'l'";
 
   playersKeyY[0] = playersKeyY[2] = height/2-200;
   playersKeyY[1] = playersKeyY[3] = height/2-50;

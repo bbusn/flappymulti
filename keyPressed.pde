@@ -97,7 +97,7 @@ void keyPressed() {
                 }
               }
             } else {
-              if (key == 'a' || key == 'i' || key == 'x' || key == 'l' || key == 'e' || key == 'o' || key == 'c' || key == 'm') {
+              if (key == 'a' || key == 'i' || key == 'x' || key == 'l' || key == 'e' || key == 'o' || key == 'c' || key == 'm' || key == ' ') {
                 settings = 0;
               }
             }
@@ -109,7 +109,7 @@ void keyPressed() {
             menuSelectedButton = (menuSelectedButton + 1) % menuButtonsCount; 
           } else {
             if (menuSelectedButton == 0) {
-              if (key == 'a' || key == 'i' || key == 'x' || key == 'l' || key == 'e' || key == 'o' || key == 'c' || key == 'm') {
+              if (key == 'a' || key == 'i' || key == 'x' || key == 'l' || key == 'e' || key == 'o' || key == 'c' || key == 'm' || key == ' ') {
                 settings = 1;
               }
             } else if (menuSelectedButton == 1) {
@@ -169,7 +169,7 @@ void keyPressed() {
                 }
               }
             } else if (menuSelectedButton == 3) {
-              if (key == 'a' || key == 'i' || key == 'x' || key == 'l' || key == 'e' || key == 'o' || key == 'c' || key == 'm') {
+              if (key == 'a' || key == 'i' || key == 'x' || key == 'l' || key == 'e' || key == 'o' || key == 'c' || key == 'm' || key == ' ') {
                 menu = 0;
                 playGame();
               }
@@ -182,7 +182,7 @@ void keyPressed() {
         gameOverSelectedButton = (gameOverSelectedButton - 1 + gameOverButtonsCount) % gameOverButtonsCount;
       } else if (keyCode == LEFT || key == 'q') {
         gameOverSelectedButton = (gameOverSelectedButton + 1) % gameOverButtonsCount; 
-      } else if (key == 'a' || key == 'i' || key == 'x' || key == 'l' || key == 'e' || key == 'o' || key == 'c' || key == 'm') {
+      } else if (key == 'a' || key == 'i' || key == 'x' || key == 'l' || key == 'e' || key == 'o' || key == 'c' || key == 'm' || key == ' ') {
         if (gameOverSelectedButton == 0) {
           playGame();
         } else {

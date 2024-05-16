@@ -212,11 +212,11 @@ void draw() {
       /* ___IF AT TITLE START___ */
       if (title == 1) {
         strokeText("FlappyMulti", width/2, height/2, mainColor, 0, 150, 4, textFont, CENTER, 255);
-        int blinkInterval = 200;
+        int blinkInterval = 300;
         boolean isVisible = (millis() / blinkInterval) % 2 == 0;
         
         if (isVisible) {
-          strokeText("Press anything to start", width/2, height/2+100, mainColor, 0, 50, 3, textFont, CENTER, 255);
+          strokeText("Use space and arrows to navigate through the menu", width/2, height/2+100, mainColor, 0, 50, 3, textFont, CENTER, 255);
         }
       } else {
         if (settings == 1) {

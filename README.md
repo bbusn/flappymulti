@@ -1,16 +1,26 @@
-# 🐦 FlappyMulti - Multiplayer Flappy Bird Game
+#  FlappyMulti - Multiplayer Flappy Bird Game
 
-![Logo](https://benoitbusnardo.fr/assets/images/projects/flappymulti/screen.png)
+![Logo](https://benoitbusnardo.fr/assets/images/projects/bonus/flappymulti/logo.png)
 
 
-Welcome to FlappyMulti, a multiplayer version of the classic Flappy Bird game built using Processing! This version is optimized for arcade game setups, allowing multiple players to compete simultaneously in a fun and competitive gaming experience.
+Welcome to FlappyMulti, a multiplayer version of the classic Flappy Bird game built using Processing! This version is made for multiple players to compete simultaneously in a fun and competitive gaming experience.
 
 ## Features
 
 - **Multiplayer Gameplay:** Challenge your friends or arcade visitors to see who can navigate the Flappy Bird through obstacles the farthest.
 - **Arcade-Optimized:** Designed specifically for arcade game setups, providing a seamless and enjoyable experience for players.
-- **Simple Controls:** Easy-to-use controls make it accessible for players of all skill levels.
+- **Simple Controls:** Easy-to-use controls indicat
 - **High Score Tracking:** Keep track of the highest scores to encourage friendly competition and replayability.
 
+## Screenshots
 
-To run FlappyMulti, you'll need to have [Processing](https://processing.org/download/) installed on your system.
+![App Screenshot](https://benoitbusnardo.fr/assets/images/projects/bonus/flappymulti/screen.png)
+![App Screenshot](https://benoitbusnardo.fr/assets/images/projects/bonus/flappymulti/screen2.png)
+![App Screenshot](https://benoitbusnardo.fr/assets/images/projects/bonus/flappymulti/screen3.png)
+
+
+## Installation
+
+To run FlappyMulti, you only need to run flappymulti.exe
+
+Don't move the executable from it's initial folder because it requires other files.
