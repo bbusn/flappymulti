@@ -1,6 +1,6 @@
 #  FlappyMulti - Multiplayer Flappy Bird Game
 
-![Logo](https://benoitbusnardo.fr/assets/images/projects/bonus/flappymulti/logo.png)
+![Logo](https://benoitbusnardo.fr/images/projects/bonus/flappymulti/logo.png)
 
 
 Welcome to FlappyMulti, a multiplayer version of the classic Flappy Bird game built using Processing! This version is made for multiple players to compete simultaneously in a fun and competitive gaming experience.
@@ -14,9 +14,9 @@ Welcome to FlappyMulti, a multiplayer version of the classic Flappy Bird game bu
 
 ## Screenshots
 
-![App Screenshot](https://benoitbusnardo.fr/assets/images/projects/bonus/flappymulti/screen.png)
-![App Screenshot](https://benoitbusnardo.fr/assets/images/projects/bonus/flappymulti/screen2.png)
-![App Screenshot](https://benoitbusnardo.fr/assets/images/projects/bonus/flappymulti/screen3.png)
+![App Screenshot](https://benoitbusnardo.fr/images/projects/bonus/flappymulti/screen.png)
+![App Screenshot](https://benoitbusnardo.fr/images/projects/bonus/flappymulti/screen2.png)
+![App Screenshot](https://benoitbusnardo.fr/images/projects/bonus/flappymulti/screen3.png)
 
 ## Installation
 
